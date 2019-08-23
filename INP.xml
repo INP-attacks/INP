@@ -1,0 +1,10 @@
+<INP>
+	<Internal Networks>
+		<Network>192.168.1.0/24</Network>
+		<Network>10.0.1.0/24</Network>
+		<Network>172.163.0.0/16</Network>
+	</Internal Networks>
+</INP>
+
+
+
