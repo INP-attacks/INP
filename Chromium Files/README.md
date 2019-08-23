@@ -1,4 +1,5 @@
 The files in this folder are the files that should replace original code file of the Chromium project which we have modified.
+After cloning the original code and modifying the relevant files, you may follow the [Chromium building instructions for Windows](https://chromium.googlesource.com/chromium/src/+/master/docs/windows_build_instructions.md).
 
 These are the paths where the files should be put in the Chromium source code:
 * ip_address.cc -> src\net\base\ip_address.cc
