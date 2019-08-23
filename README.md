@@ -1,5 +1,6 @@
 # INP
-PoC implementation of INP with Chromium
+PoC implementation of INP with Chromium. 
+
 This PoC was tested on a Windows 10 x64 machine.
 
 ## How to install INP with Chromium
@@ -19,7 +20,7 @@ All details are available in [Chromium Files](https://github.com/INP-attacks/INP
 
 ## How to run the PoC
 * You may want to use an XML configuration files for customized IPv4 private address spaces.
-** Look at [INP.xml](https://github.com/INP-attacks/INP/blob/master/INP.xml) for an example.
-** Create INP.xml file, if necessary, in C:\Temp\INP\INP.xml
+  * Look at [INP.xml](https://github.com/INP-attacks/INP/blob/master/INP.xml) for an example.
+  * Create INP.xml file, if necessary, in C:\Temp\INP\INP.xml
 * Run C:\Temp\INP\INPChromiumSupporter\INPChromiumSupporter.exe
 * Run your compiled chrome.exe
